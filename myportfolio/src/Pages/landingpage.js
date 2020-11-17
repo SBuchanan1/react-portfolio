@@ -25,7 +25,7 @@ class Home extends Component {
                             />
                             <br /><br />
                             <p>
-                                Hi! I'm Sydney Buchanan a current student at the Georgia Tech Full Stack Flex web development class.
+                                Hi! I'm Sydney Buchanan a current student at the Georgia Tech full stack flex web development boot-camp.
                                 I've always had a passion for engineering. When I began University in 2013 at Tuskegee University,
                                 it was with a focus in Business Administration. However, despite my love for business,
                                 I've always been fascinated with the way things work. I have a knack for problem solving
@@ -35,22 +35,18 @@ class Home extends Component {
                                 I would still have the opportunity to become an engineer.
                     </p>
                             <p>
-                                I began at university in 2013 at Tuskegee University with a
-                                focus in Business Administration which switched to Mechanical engineering
-                                after two years. Unfortunately I was unable to complete my degree at Tuskegee and began looking for other career paths that didn't require a degree.
+                                Engineering is incredibly challenging yet very rewarding. What I've come to learn about
+                                software engineering is, I can be creative as I would like. Also, being able to learn everyday
+                                is something that excites me. There's always an opportunity to learn a new technique or a new application
+                                in whatever area your heart desires.
                             </p>
                             <p>
-                                {/* Since then, I have continued to enjoy learning independently, and,
-                                in my spare time, I am almost always researching whatever fascinates
-                                me in that moment. I love learning about history, language, animals,
-                                the arts, space, computers and technology. I am currently teaching
-                                myself German after becoming mostly fluent in Spanish in college.
-                                When I am not researching interesting information, you could find me
-                                watching movies, playing games, playing with my dogs, or
-                                painting/making something. */}
+                                Since the start of August, I've learned more than I could have ever imagined.
+                                I honestly never would have thought that I would learn what I've come to learn in
+                                these past three months. I'm truly thankful for the opportunity presented to me
                             </p>
                             <p>
-                                I am more than excited to see what the result of the bootcamp brings!
+                                I am more than excited to see what the result of the boot-camp brings!
                             </p>
                         </div>
                     </section>
