@@ -16,14 +16,14 @@
 
 .navbar {
   border-radius: 3px;
-  border: teal;
+  border: blueviolet;
   border-style: solid;
 }
 
 .headBtn {
   margin-left: 8px;
   margin-right: 8px;
-  color: teal;
+  color: blueviolet;
   border-radius: 5px;
   border-color: teal;
   border-width: 2px;
@@ -36,7 +36,7 @@
 .page-footer {
   background-color: white;
   border-top-style: solid;
-  border-color: teal;
+  border-color: blueviolet;
   margin-top: 100px;
 }
 
