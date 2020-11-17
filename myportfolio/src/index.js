@@ -14,6 +14,6 @@ ReactDOM.render(
   </BrowserRouter>,
   document.getElementById('root')
 );
-ServiceWorker();
+// ServiceWorker();
 
 

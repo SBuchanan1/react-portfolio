@@ -26,9 +26,8 @@ class Portfolio extends Component {
                                     />
                                 </a>
                                 <figcaption className="captionText">
-                                    Cryptic Encounters: A Haunted House Adventure - Dialogue-based
-                                    game with choices. Click the screenshot to play!
-                            <a href="https://github.com/LNoeltner1/cryptic-encounters"
+                                    Blanket!
+                            <a href="https://github.com/"
                                     >|| Repository Link</a
                                     >
                                 </figcaption>
@@ -36,7 +35,7 @@ class Portfolio extends Component {
 
                         </div>
                         <div className="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
-                            <a href="https://lnoeltner1.github.io/Random_Password_Generator_App/">
+                            <a href="https://.github.io/Random_Password_Generator_App/">
                                 <figure className="captionText">
                                     <img
                                         src="assets\Images\03-javascript-homework-demo.png"
