@@ -18,7 +18,7 @@ class Home extends Component {
                     <section className="row">
                         <div className="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
                             <img
-                                src="assets\Images\IMG_0575_83501212705938.JPG"
+                                src=""
                                 className="mr-3"
                                 id="bioimage"
                                 alt="Sydney Buchanan Picture"

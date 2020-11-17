@@ -14,10 +14,10 @@ class Contact extends Component {
                         </div>
                         <br />
                         <div className="col-xs-7 col-sm-6 col-md-8 col-lg-8 col-xl-8">
-                            <a href="https://www.linkedin.com/in/lauren-noeltner-102b731a0/">
+                            <a href="https://www.linkedin.com/in/-102b731a0/">
                                 <button className="linkedinlink">LinkedIn Profile</button>
                             </a>
-                            <a href="https://github.com/LNoeltner1">
+                            <a href="https://github.com/">
                                 <button className="githublink">GitHub Profile</button>
                             </a>
                         </div>
