@@ -25,16 +25,19 @@ class Home extends Component {
                             />
                             <br /><br />
                             <p>
-                                I am currently a full stack web development student at the illustrious Georgia Tech.
-                                I aspire to expand my knowledge in software engineering and eventually
+                                Hi! I'm Sydney Buchanan a current student at the Georgia Tech Full Stack Flex web development class.
+                                I've always had a passion for engineering. When I began University in 2013 at Tuskegee University,
+                                it was with a focus in Business Administration. However, despite my love for business,
+                                I've always been fascinated with the way things work. I have a knack for problem solving
+                                which brought me to the decision of changing my major. Unfortunately, due to confidential reasons
+                                I was unable to complete my degree, which brought me to focus on career choices that don't necessarily require a degree.
+                                That was when I learned of coding boot-camps and the awesome part of it all,
+                                I would still have the opportunity to become an engineer.
                     </p>
                             <p>
-                                {/* I began at university in 2011 at the University of Georgia with a
-                                focus in Pre-Veterinary Medicine, which switched to Anthropology
-                                after a year and switched again to Psychology with a minor in
-                                Spanish and Painting after another year. I attended U.G.A. until the
-                                end of my Junior year, when I decided to leave Athens to return to
-                                Atlanta. */}
+                                I began at university in 2013 at Tuskegee University with a
+                                focus in Business Administration which switched to Mechanical engineering
+                                after two years. Unfortunately I was unable to complete my degree at Tuskegee and began looking for other career paths that didn't require a degree.
                             </p>
                             <p>
                                 {/* Since then, I have continued to enjoy learning independently, and,
@@ -47,9 +50,7 @@ class Home extends Component {
                                 painting/making something. */}
                             </p>
                             <p>
-                                {/* I am more than halfway through the Georgia Tech Coding Boot Camp,
-                                and I am greatly enjoying the opportunity to strengthen my skills as
-                                a developer. See my portfolio for some of my completed projects! */}
+                                I am more than excited to see what the result of the bootcamp brings!
                             </p>
                         </div>
                     </section>
